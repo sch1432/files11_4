@@ -1,6 +1,16 @@
 body {
 	font-size: 13px;
 	font-family: text;
+  background: white;
+  color: black;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: whitesmoke;
   background: black;
-  color: white;
+  padding: 5px;
 }

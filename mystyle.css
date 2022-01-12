@@ -14,3 +14,9 @@ h2 {
   background: black;
   padding: 5px;
 }
+
+.formula {
+  align: center;
+  font-weight: bold;
+  font-style: italic;
+}

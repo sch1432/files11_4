@@ -2,7 +2,7 @@
 
 Оригинал работы - https://kpolyakov.spb.ru/school/probook/prakt.htm
 
-Инструкция - https://docs.google.com/document/d/1dAotTZnKyOO-MEQjQovdkv3Mag0BQsHO
+Инструкция - https://cloud.mail.ru/public/3RcC/s2NrMmUiC
 
 Тест. Система - https://jsfiddle.net/aq1gj8mz/2/
 

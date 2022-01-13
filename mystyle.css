@@ -20,3 +20,8 @@ h2 {
   font-weight: bold;
   font-style: italic;
 }
+
+.definition {
+  border: 1px solid;
+  padding: 10px;
+}

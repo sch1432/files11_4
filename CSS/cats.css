@@ -1,0 +1,36 @@
+body {
+  background: #FFEEEE;
+  font-family: text;
+  src: url("georgia.ttf") format('truetype'); 
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(images/cat.png);
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #800000;
+}
+
+.latin {
+  font-style: italic;
+  color: darkred;
+}
+
+p {
+  padding-left: 30px;
+}
+
+.author {
+  font-style: italic;
+  padding-left: 0px;
+}
+
+.quote {
+  background: #FEFEE2;
+  padding-left: 0px;
+  widht: 50%;
+}

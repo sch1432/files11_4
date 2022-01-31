@@ -2,6 +2,6 @@
 
 Оригинал работы - https://kpolyakov.spb.ru/school/probook/prakt.htm
 
-Инструкция - https://cloud.mail.ru/public/3RcC/s2NrMmUiC
+Инструкция - https://cloud.mail.ru/public/WbNf/pVWH7p56a
 
 Тест. Система - https://jsfiddle.net/aq1gj8mz/2/

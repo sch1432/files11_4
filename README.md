@@ -5,3 +5,5 @@
 Инструкция - https://cloud.mail.ru/public/WbNf/pVWH7p56a
 
 Тест. Система - https://jsfiddle.net/aq1gj8mz/2/
+
+cxvXyfux1PP88zUIgkwA
